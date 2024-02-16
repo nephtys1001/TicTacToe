@@ -12,7 +12,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(187, 190, 18);
+    background-color: rgb(154, 137, 154);
 }
 
 .container:after{
@@ -23,7 +23,7 @@
 }
 
 .square{
-  border: 1px solid red;
+  border: 1px solid black;
   float: left;
   font-size: 40px;
   height: 100px;
@@ -37,7 +37,7 @@
 
 .container h1{
     margin-top: 20px;
-    
+
     
 }
 
